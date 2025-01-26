@@ -1,0 +1,27 @@
+[
+    {
+        "user_id":2,
+        "movie_id":113862.0,
+        "rating":3.0
+    },
+    {
+        "user_id":2,
+        "movie_id":114898.0,
+        "rating":3.0
+    },
+    {
+        "user_id":2,
+        "movie_id":109444.0,
+        "rating":4.0
+    },
+    {
+        "user_id":2,
+        "movie_id":109830.0,
+        "rating":3.0
+    },
+    {
+        "user_id":2,
+        "movie_id":111257.0,
+        "rating":3.0
+    }
+]

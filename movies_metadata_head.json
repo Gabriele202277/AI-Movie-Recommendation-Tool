@@ -1,0 +1,37 @@
+[
+    {
+        "movie_id":95765.0,
+        "title":"Cinema Paradiso",
+        "overview":"A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+        "vote_average":8.2,
+        "vote_count":834.0
+    },
+    {
+        "movie_id":67116.0,
+        "title":"The French Connection",
+        "overview":"Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+        "vote_average":7.4,
+        "vote_count":435.0
+    },
+    {
+        "movie_id":80801.0,
+        "title":"The Gods Must Be Crazy",
+        "overview":"Misery is brought to a small group of Sho in the Kalahari desert in the form of a cola bottle. In his quest to throw the evil object over the edge of the earth, Xixo encounters Western \"civilization,\" a haphazard doctor and a tyranical despot.",
+        "vote_average":7.1,
+        "vote_count":251.0
+    },
+    {
+        "movie_id":96446.0,
+        "title":"Willow",
+        "overview":"Fearful of a prophecy stating that a girl child will be born to bring about her downfall, the evil Queen Bavmorda imprisons all pregnant women within the formidable stronghold of Nockmaar. A child, Elora Danan, is born in the Nockmaar dungeons and identified as the prophesied child by a birthmark on her arm. However, before the black sorceress arrives to claim the child, Elora's mother convinces her reluctant midwife to escape with the baby. Willow, a timid farmer and aspiring sorcerer, is entrusted with delivering the royal infant from evil.",
+        "vote_average":6.9,
+        "vote_count":484.0
+    },
+    {
+        "movie_id":112697.0,
+        "title":"Clueless",
+        "overview":"Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
+        "vote_average":6.9,
+        "vote_count":828.0
+    }
+]
